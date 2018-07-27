@@ -8,7 +8,7 @@
 
   <modules>
     <module>library</module>
-    <module>client</module>
+    <module>user</module>
   </modules>
 
 </project>
