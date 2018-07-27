@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>hijiri408</groupId>
-  <artifactId>nexus-repo-deployment</artifactId>
+  <artifactId>maven-nexus-repository</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <modules>

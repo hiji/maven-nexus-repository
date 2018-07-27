@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>hijiri408</groupId>
-    <artifactId>nexus-repo-client</artifactId>
+    <artifactId>maven-nexus-repository-client</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
